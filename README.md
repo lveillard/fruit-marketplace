@@ -35,8 +35,8 @@ The project is composed of 3 subfolders:
    Now run `npm install`.
 
    Then run `npm run db:reset` to create the database tables.
-
-   Finally, `npm start` will launch the server.
+   [Only windows users: intall npm install -g win-node-env]
+   Finally, `npm start` will launch the server. 
 
 The DB is prefilled with 2 users:
 - A client with credentials t.malahieude@gmail.com / aaaaaa
